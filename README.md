@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I'm Danny Lau!
 
-<!--
-**kkdlau/kkdlau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=kkdlau&color=blue&style=flat-square=VIEW+COUNT)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on HKUST Robotics Team as a software engineer.
+- 🌱 I’m currently learning Nodejs.
+- 👯 I’m looking to collaborate on Flutter~
+- 🤔 I’m looking for help with My U life :cry:
+- 💬 Ask me about Robotics, Web Development, and Mobile Development!
+- 📫 How to reach me: [Facebook - Lau, Ka Kit Danny](https://www.facebook.com/DannyLau1205), [Instagram - @laukakitdanny](https://www.instagram.com/laukakitdanny/?hl=zh-hk)
+- 😄 Pronouns: ~死肥仔, fatboy~
+- ⚡ Fun fact: I'm keeping fit :grimacing: :muscle: (So don't call me ~fatboy~)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:**  
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
