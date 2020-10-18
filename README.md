@@ -1,6 +1,8 @@
 ### Hi, I'm Danny Lau!
 
 ![](https://komarev.com/ghpvc/?username=kkdlau&color=blue&style=flat-square=VIEW+COUNT)
+![](https://img.shields.io/badge/HKUST-Robotics%20Team-red?logo=Semaphore-CI&logoColor=white)
+![](https://img.shields.io/badge/HKUST-Student-blue)
 
 - 🔭 I’m currently working on HKUST Robotics Team as a software engineer.
 - 🌱 I’m currently learning Nodejs.
