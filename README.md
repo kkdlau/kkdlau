@@ -24,5 +24,5 @@
 </code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1280px-Qt_logo_2016.svg.png"></code>
 </code>
-<code><img height="50" src="https://i.redd.it/31b2ii8hchi31.jpg">
+<code><img height="50" src="https://i.redd.it/31b2ii8hchi31.jpg"></code>
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/></code>
