@@ -7,11 +7,8 @@
 - 🔭 I’m currently working on HKUST Robotics Team as a software engineer.
 - 🌱 I’m currently learning Nodejs.
 - 👯 I’m looking to collaborate on Flutter~
-- 🤔 I’m looking for help with My U life :cry:
 - 💬 Ask me about Robotics, Web Development, and Mobile Development!
 - 📫 How to reach me: [Facebook - Lau, Ka Kit Danny](https://www.facebook.com/DannyLau1205), [Instagram - @laukakitdanny](https://www.instagram.com/laukakitdanny/?hl=zh-hk)
-- 😄 Pronouns: ~死肥仔, fatboy~
-- ⚡ Fun fact: I'm keeping fit :grimacing: :muscle: (So don't call me ~fatboy~)
 
 **Languages and Tools:**  
 
