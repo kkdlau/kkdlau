@@ -10,6 +10,18 @@
 - 💬 Ask me about Robotics, Web Development, and Mobile Development!
 - 📫 How to reach me: [Facebook - Lau, Ka Kit Danny](https://www.facebook.com/DannyLau1205), [Instagram - @laukakitdanny](https://www.instagram.com/laukakitdanny/?hl=zh-hk)
 
+**My Favourite Comics 📖 **
+
+* 나 혼자만 레벨업 Solo leveling
+* 오늘도 사랑스럽개 A Good Day to be a Dog
+* 이번 생도 잘 부탁해 See You in My 19th Life
+* 認識的女孩 (from webtoon also, but only chinese translation is available)
+* 플로우 Flow
+* 神之塔 Tower Of God
+* 僕のヒーローアカデミア My Hero Academia
+* 끝이 아닌 시작 The Beginning After the End
+* かぐや様は告らせたい 輝夜姬想讓人告白
+
 **Languages and Tools:**  
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
