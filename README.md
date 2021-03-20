@@ -10,7 +10,7 @@
 - 💬 Ask me about Robotics, Web Development, and Mobile Development!
 - 📫 How to reach me: [Facebook - Lau, Ka Kit Danny](https://www.facebook.com/DannyLau1205), [Instagram - @laukakitdanny](https://www.instagram.com/laukakitdanny/?hl=zh-hk)
 
-**My Favourite Comics 📖 **
+**My Favourite Comics 📖**
 
 * 나 혼자만 레벨업 Solo leveling
 * 오늘도 사랑스럽개 A Good Day to be a Dog
