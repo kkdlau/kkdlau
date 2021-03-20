@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Nodejs.
 - 👯 I’m looking to collaborate on Flutter~
 - 💬 Ask me about Robotics, Web Development, and Mobile Development!
-- 📫 How to reach me: [Facebook - Lau, Ka Kit Danny](https://www.facebook.com/DannyLau1205), [Instagram - @laukakitdanny](https://www.instagram.com/laukakitdanny/?hl=zh-hk)
+- 📫 How to reach me: [Instagram - @laukakitdanny](https://www.instagram.com/laukakitdanny/?hl=zh-hk)
 
 **My Favourite Comics 📖**
 
