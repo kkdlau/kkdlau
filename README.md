@@ -16,6 +16,7 @@
 * 오늘도 사랑스럽개 A Good Day to be a Dog
 * 이번 생도 잘 부탁해 See You in My 19th Life
 * 認識的女孩 (from webtoon also, but only chinese translation is available)
+* 그녀의 버킷리스트 她的遺願清單
 * 플로우 Flow
 * 神之塔 Tower Of God
 * 僕のヒーローアカデミア My Hero Academia
