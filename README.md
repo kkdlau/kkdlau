@@ -24,7 +24,8 @@
 * かぐや様は告らせたい 輝夜姬想讓人告白
 
 **Languages and Tools:**  
-
+<code><img height="50" src="https://miro.medium.com/max/1400/1*BfYqWv6otK3jOS_6Dmi-og.png"></code>
+<code><img height="50" src="https://i.pinimg.com/originals/8b/29/ff/8b29ff73ef1f198e3598f1214901f323.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="50" src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png"></code>
