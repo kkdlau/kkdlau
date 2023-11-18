@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Danny from HKUST!</h1>
 <h3 align="center">Graduated with a major in Computer Science</h3>
 
+<h4 align="center">I am writing notes (or blogs) about Java, Low Latency Tuning and Software Engineering in <a href="https://dannylau.notion.site/438e09aabd6645edbf049c8933fec808?v=009e0c04374c4ea98c3eabc2f1fae37e&pvs=25">my Notion site</a>, you are welcome to leave a comment to improve the content and share you view!</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkdlau&label=Profile%20views&color=0e75b6&style=flat" alt="kkdlau" /> </p>
 
 - 🌱 I’m currently learning **Software Engineering in Trading System**
