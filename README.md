@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Danny from HKUST!</h1>
-<h3 align="center">A final year student majoring in Computer Science</h3>
+<h3 align="center">Graduated with a major in Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkdlau&label=Profile%20views&color=0e75b6&style=flat" alt="kkdlau" /> </p>
 
-- 🔭 I’m currently working on [metaprogramming in MLscript compiler](https://github.com/kkdlau/mlscript-fyp-edition)
-
-- 🌱 I’m currently learning **functional programming in Scala**
+- 🌱 I’m currently learning **Software Engineering in Trading System**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kkdlau?tab=repositories](https://github.com/kkdlau?tab=repositories)
 
 - 💬 Ask me about **Robotics, Web Development, and Mobile Development**
 
-- 📫 How to reach me **kkdlau@connect.ust.hk**
+- 📫 How to reach me **kakitlau@outlook.com**
 
 - ⚡ Fun fact **I think more than I code**
 
